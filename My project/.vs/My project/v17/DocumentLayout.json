@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\git repository\\practice-10\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|s:\\git repository\\practice-10\\my project\\assets\\scripts\\impulsestruke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\impulsestruke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|S:\\git repository\\practice-10\\My project\\assets\\scripts\\impulse2script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\impulse2script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|s:\\git repository\\practice-10\\my project\\assets\\scripts\\onclickmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\onclickmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|s:\\git repository\\practice-10\\my project\\assets\\scripts\\speedlimiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\speedlimiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Impulse2Script.cs",
+              "DocumentMoniker": "S:\\git repository\\practice-10\\My project\\Assets\\Scripts\\Impulse2Script.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Impulse2Script.cs",
+              "ToolTip": "S:\\git repository\\practice-10\\My project\\Assets\\Scripts\\Impulse2Script.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Impulse2Script.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T12:05:48.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpeedLimiter.cs",
+              "DocumentMoniker": "S:\\git repository\\practice-10\\My project\\Assets\\Scripts\\SpeedLimiter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpeedLimiter.cs",
+              "ToolTip": "S:\\git repository\\practice-10\\My project\\Assets\\Scripts\\SpeedLimiter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpeedLimiter.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:24:11.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OnClickMove.cs",
+              "DocumentMoniker": "S:\\git repository\\practice-10\\My project\\Assets\\Scripts\\OnClickMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OnClickMove.cs",
+              "ToolTip": "S:\\git repository\\practice-10\\My project\\Assets\\Scripts\\OnClickMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OnClickMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:19:43.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImpulseStruke.cs",
+              "DocumentMoniker": "S:\\git repository\\practice-10\\My project\\Assets\\Scripts\\ImpulseStruke.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ImpulseStruke.cs",
+              "ToolTip": "S:\\git repository\\practice-10\\My project\\Assets\\Scripts\\ImpulseStruke.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ImpulseStruke.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T12:06:38.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
